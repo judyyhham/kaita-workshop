@@ -1,0 +1,15 @@
+h1 {
+    color: green; 
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    background-color: red; 
+    color:#fff; 
+    font-weight: bold;
+}
+image {
+    width: 40%; height: 40%;
+}
+table, td, th {
+    border: 2px solid black;
+}
